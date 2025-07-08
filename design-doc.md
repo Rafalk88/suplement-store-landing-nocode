@@ -2,20 +2,22 @@
 
 ## Goals
 - Deliver modern, responsive landing page
-- Represent product benefits clearly
+- Show necessary info about company
 - Enable future scaling to full site
 
 ## Structure
-1. Hero section with CTA
-2. Product benefits section
-3. Testimonials (optional)
-4. Contact / Socials
+**Home**
+1. Hero section with CTA (go to shop)
+2. Events section
+3. Contact / Socials
+
+**About us**
+1. Basic info about company
 
 ## Tool Choice
-Chose Framer for:
+Chose Design.com for:
 - Clean templates
 - Mobile responsiveness
-- Simple hosting setup
 
 ## Link
-https://example.framer.website
+https://
