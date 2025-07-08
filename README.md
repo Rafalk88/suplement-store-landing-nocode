@@ -1,6 +1,6 @@
 # Supplement Store Landing Page (No-code version)
 
-🔗 [Live preview](https://example.framer.website)
+🔗 [Live preview]()
 
 ## Purpose
 Quick marketing landing page created for a small supplement store.  
